@@ -1,4 +1,5 @@
 -- Add Telemetry as Radar Alt to the HUD
+-- slot name: telemeter
 radarAlt = math.floor(telemeter.getDistance())
 
 if ( 0 <= radarAlt) then
