@@ -11,3 +11,7 @@ The Prometheus script is expecting the following named slots:
 - core
 - gyro
 - spacefueltank_1
+
+# Thanks/Disclaimer
+
+Most of the LUA code has been patched together from other sources/Discord and stitched in to a working resembalance for us
